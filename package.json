@@ -1,6 +1,6 @@
 {
   "name": "electron-performance-monitor",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Electron performance monitoring tool.",
   "main": "monitor.js",
   "types": "types.d.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/taku-o/electron-performance-monitor.git"
+    "url": "git://github.com/myukkurivoice/electron-performance-monitor.git"
   },
   "publishConfig": {
     "access": "public"
@@ -22,9 +22,9 @@
     "monitoring",
     "performance"
   ],
-  "homepage": "https://github.com/taku-o/electron-performance-monitor",
+  "homepage": "https://github.com/myukkurivoice/electron-performance-monitor",
   "bugs": {
-    "url": "https://github.com/taku-o/electron-performance-monitor/issues",
+    "url": "https://github.com/myukkurivoice/electron-performance-monitor/issues",
     "email": "mail@nanasi.jp"
   },
   "author": "taku-o <mail@nanasi.jp> (http://nanasi.jp/)",
